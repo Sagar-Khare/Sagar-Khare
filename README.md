@@ -1,7 +1,8 @@
 # Hi 👋, I'm Sagar Khare
 
-**Big Data Engineer**  
- SQL | AWS | Python | Spark | Kafka | Hadoop 
+- 🔭 I’m a **Data Engineer**
+  
+SQL | AWS | Python | Spark | Kafka | Hadoop 
 
 Building scalable data pipelines and cloud-native analytics solutions.
 
