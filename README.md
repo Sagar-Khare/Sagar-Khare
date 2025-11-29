@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sagar Khare
 
-- 🔭 I’m a **Data Engineer**
+- 🔭  **Big Data Engineer**
   
 SQL | AWS | Python | Spark | Kafka | Hadoop 
 
