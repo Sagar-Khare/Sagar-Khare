@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Sagar Khare
+## Hi 👋, I'm Sagar Khare
 
 <!--
 **Sagar-Khare/Sagar-Khare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
