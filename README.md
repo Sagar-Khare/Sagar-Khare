@@ -2,7 +2,7 @@
 
 - 🔭  **Big Data Engineer**
   
-SQL | AWS | Python | Spark | Kafka | Hadoop 
+ AWS (S3, Redshift, Glue, EMR, Lambda) | Python, Scala, SQL | Apache Spark, Kafka, Hadoop | Data Pipelines, ETL & Real-Time Processing | Data Warehousing | Data Modeling & Distributed Systems
 
 Building scalable data pipelines and cloud-native analytics solutions.
 
